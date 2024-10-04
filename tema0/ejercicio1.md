@@ -8,4 +8,4 @@ python -m http.server 8000
 
 Un vez hecho esto veremos en la linea de comando la siguiente información
 
-[pantalla 1](/tema0/pantalla1.png)
+[pantalla 1](/tema0/imagen1.png)
